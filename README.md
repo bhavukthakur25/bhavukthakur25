@@ -1,4 +1,6 @@
 ### Hello Awesome Coding World! 🚀👨🏼‍💻
+I'm Bhavuk Thakur a UX Designer and passionate about Machine learning AI and Python code
+
 <!--
 **bhavukthakur25/bhavukthakur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
