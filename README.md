@@ -1,4 +1,4 @@
-### Hello Awesome Coding World! 🚀👨🏼‍💻
+# Hello Awesome Coding World! 🚀👨🏼‍💻
 I'm Bhavuk Thakur a UX Designer and passionate about Machine learning AI and Python code
 
 <!--
