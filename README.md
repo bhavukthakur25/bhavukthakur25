@@ -1,4 +1,4 @@
-### Hello I am Bhavuk Thakur 👋🏻 
+## Hello I am Bhavuk Thakur 👋🏻 
 **~~Not only UI Designer~~ ML AI and User Experience Enthusiast** 👨🏼‍💻
 
 Passionate about the ever-evolving world of tech and design, I bring over 6 years of diverse industry
