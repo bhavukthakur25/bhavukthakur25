@@ -1,5 +1,5 @@
-# Hello Awesome Coding World! 🚀👨🏼‍💻
-I'm Bhavuk Thakur, ML AI and User Experience Enthusiast
+## Hello Awesome Coding World! 🚀👨🏼‍💻
+# I'm Bhavuk Thakur, ML AI and User Experience Enthusiast
 
 <!--
 **bhavukthakur25/bhavukthakur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
