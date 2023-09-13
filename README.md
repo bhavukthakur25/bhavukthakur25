@@ -7,6 +7,9 @@ experience, including **Fintech, e-commerce, Healthcare, and Aerospace**. My exp
 design decisions backed by research and a psychology-first approach, resulting in remarkable
 improvements in user satisfaction rates and conversions.
 
+Check out my [**UX Portfolio**](https://www.bhavukuxdesign.com/) link for more information.
+
+
 <!--
 **bhavukthakur25/bhavukthakur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
