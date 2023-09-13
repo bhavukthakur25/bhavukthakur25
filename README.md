@@ -1,5 +1,8 @@
-## Hello Awesome Coding World! 🚀👨🏼‍💻
-# I'm Bhavuk Thakur, ML AI and User Experience Enthusiast
+### Hello I'm Bhavuk Thakur, ML AI and User Experience Enthusiast 👨🏼‍💻🚀
+Passionate about the ever-evolving world of tech and design, I bring over 6 years of diverse industry
+experience, including Fintech, e-commerce, Healthcare, and Aerospace. My expertise lies in making
+design decisions backed by research and a psychology-first approach, resulting in remarkable
+improvements in user satisfaction rates and conversions.
 
 <!--
 **bhavukthakur25/bhavukthakur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
