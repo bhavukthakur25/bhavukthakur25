@@ -1,6 +1,6 @@
 ## Hello I am Bhavuk Thakur 👋🏻 
 
-*~~Before UX Designer~~* **Now ML AI and User Experience Enthusiast** 👨🏼‍💻
+*~~Engineer turned UX Designer~~* **I'm a UX Designer turned ML AI and User Experience Enthusiast** 👨🏼‍💻
 
 Passionate about the ever-evolving world of tech and design, I bring over **6 years** of diverse industry
 experience, including **Fintech, e-commerce, Healthcare, and Aerospace**. My expertise lies in making
@@ -16,7 +16,6 @@ improvements in user satisfaction rates and conversions.
     - Interaction Design
     - Prototype
     - User Testing
-
 
 
 <!--
