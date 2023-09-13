@@ -1,8 +1,9 @@
 ## Hello I am Bhavuk Thakur 👋🏻 
-**~~Not only UI Designer~~ ML AI and User Experience Enthusiast** 👨🏼‍💻
 
-Passionate about the ever-evolving world of tech and design, I bring over 6 years of diverse industry
-experience, including Fintech, e-commerce, Healthcare, and Aerospace. My expertise lies in making
+*~~Not only UI Designer~~* **ML AI and User Experience Enthusiast** 👨🏼‍💻
+
+Passionate about the ever-evolving world of tech and design, I bring over **6 years** of diverse industry
+experience, including **Fintech, e-commerce, Healthcare, and Aerospace**. My expertise lies in making
 design decisions backed by research and a psychology-first approach, resulting in remarkable
 improvements in user satisfaction rates and conversions.
 
