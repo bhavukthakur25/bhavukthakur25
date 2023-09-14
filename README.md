@@ -1,8 +1,16 @@
 ![Bhavuk Thakur](https://github.com/bhavukthakur25/bhavukthakur25/assets/143281833/218cbf57-39d3-44e6-9406-cf19ca9acfc6)
-* 🌍  I'm based in India
+
+**I'm a self-taught UX designer passionate ML AI and UX interactions** 
+
+### About me
+
+* 🇮🇳 I'm based in India 
+ 
 * ✉️  You can contact me at [bhavukuxdesigner@gmail.com](mailto:bhavukuxdesigner@gmail.com)
+  
 * 🧠  I'm learning Python and Machine Learning
-* ⚡  I'm traveller and Mindful person
+  
+* ⚡  I love to help others  
 
 Passionate about the ever-evolving world of tech and design, I bring over **6 years** of diverse industry
 experience, including **Fintech, e-commerce, Healthcare, and Aerospace**. My expertise lies in making
