@@ -1,4 +1,5 @@
-![Untitled design (3)](https://github.com/bhavukthakur25/bhavukthakur25/assets/143281833/2353b7c6-4bcb-4a36-aa62-9ff2a8a693fc)
+![Bhavuk Thakur](https://github.com/bhavukthakur25/bhavukthakur25/assets/143281833/218cbf57-39d3-44e6-9406-cf19ca9acfc6)
+
 Passionate about the ever-evolving world of tech and design, I bring over **6 years** of diverse industry
 experience, including **Fintech, e-commerce, Healthcare, and Aerospace**. My expertise lies in making
 design decisions backed by research and a psychology-first approach, resulting in remarkable
